@@ -41,4 +41,18 @@ const me = {
 
 #### Github Stats
 
-![Thanasornsawan's github stats](https://github-readme-stats.vercel.app/api?username=thanasornsawan&count_private=true&theme=tokyonight&hide=contribs,prs)
+![Thanasornsawan's github stats](https://github-readme-stats.vercel.app/api?username=thanasornsawan&theme=tokyonight&hide=contribs,prs)
+
+<br>
+
+[![Top Languages](https://readme-stats-envoy-vc.vercel.app/api/top-langs/?username=thanasornsawan&layout=compact)](https://github.com/thanasornsawan/thanasornsawan)
+
+<br>
+
+<br>
+
+## 📕 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- [Review & Sharing experience Active Directory (AD) Attack](https://medium.com/@wisdomgoody/review-sharing-experience-active-directory-ad-attack-1bf5c8c072ca)
+- [Review OSCP path TryHackMe](https://medium.com/@wisdomgoody/review-oscp-path-tryhackme-e846c01ce47)
+<!-- BLOG-POST-LIST:END -->
