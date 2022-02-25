@@ -4,7 +4,9 @@ I'm Thanasornsawan Varathanamongkolchai, a Full Stack Web Developer and Penteste
 Currently, I learn solidity and web3 because interested in smart contract security.
 <br />
 
+<p align="center">
 <img align='center' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+</p>
 
 <br />
 
@@ -18,10 +20,10 @@ Currently, I learn solidity and web3 because interested in smart contract securi
 <br />
 
 #### Website hosting
-- :computer: Visit my web3 and solidity project on <br />
+- :computer: Visit my web3 and solidity project on
   [![Replit Badge](https://img.shields.io/badge/replit-@thanasornsawan-1ca0f1?style=flat&labelColor=61DA&logoColor=white)](https://replit.com/@thanasornsawan/) 
 
-<br >
+
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 
@@ -37,8 +39,6 @@ const me = {
 ```
 [![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#) [![Javascript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1)](#) [![Python Badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](#) [![Nodejs Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](#) [![Solidity Badge](https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black)](#) [![Web3 JS Badge](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)](#)  [![Mocha Badge](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white)](#) [![Chai Badge](https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white)](#)
 
-<br />
 #### Github Stats
-<br />
 
 ![Thanasornsawan's github stats](https://github-readme-stats.vercel.app/api?username=thanasornsawan&count_private=true&theme=tokyonight&hide=contribs,prs)
