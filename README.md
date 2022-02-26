@@ -17,15 +17,11 @@ Currently, I learn solidity and web3 because interested in smart contract securi
 - 🔭 I’m currently freelance and looking for remote work as smart contract security
 - ⚡ Fun fact: I like to play CTF hacking.
 
-<br />
-
 #### Website hosting
 - :computer: Visit my web3 and solidity project on
   [![Replit Badge](https://img.shields.io/badge/replit-@thanasornsawan-1ca0f1?style=flat&labelColor=61DA&logoColor=white)](https://replit.com/@thanasornsawan/) 
 
-
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-
 
 ```javascript
 const me = {
@@ -46,10 +42,6 @@ const me = {
 <br>
 
 [![Top Languages](https://readme-stats-envoy-vc.vercel.app/api/top-langs/?username=thanasornsawan&layout=compact)](https://github.com/thanasornsawan/thanasornsawan)
-
-<br>
-
-<br>
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
