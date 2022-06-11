@@ -1,6 +1,6 @@
-## Hi I'm Thanasornsawan <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+## Hi I'm Thanasornsawan 
 
-I'm Thanasornsawan Varathanamongkolchai, a Full Stack Web Developer and Pentester. I spend most of the time learning new technology.
+I'm Thanasornsawan Varathanamongkolchai, a QA engineer and Pentester. I spend most of the time learning new technology.
 Currently, I learn solidity and web3 because interested in smart contract security.
 <br />
 
@@ -14,7 +14,7 @@ Currently, I learn solidity and web3 because interested in smart contract securi
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently freelance and looking for remote work as smart contract security
+- 🔭 I’m currently freelance and work as QA engineer full-time remote
 - ⚡ Fun fact: I like to play CTF hacking.
 
 #### Website hosting
@@ -26,11 +26,10 @@ Currently, I learn solidity and web3 because interested in smart contract securi
 ```javascript
 const me = {
   Pronouns: "she" | "her",
-  Code: [Javascript, HTML, CSS, Python, Solidity, Nodejs],
-  Tools: [Postman, Ganache, infura.io, Alchemy, IPFS],
+  Code: [Javascript, HTML, CSS, Python, Solidity, Nodejs, Typescript],
+  Tools: [Ganache, infura.io, Alchemy, IPFS],
   Framework: [Truffle, Hardhat],
-  Testing: [Mocha, Chai],
-  Challenge: "I am doing the #100DaysOfCode challenge focused on web3 ,solidity and smart contract security"
+  Testing: [Mocha, Chai, Cypress, Robot Framework, Jmeter, Burp Suite, Postman]
 }
 ```
 [![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#) [![Javascript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1)](#) [![Python Badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](#) [![Nodejs Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](#) [![Solidity Badge](https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black)](#) [![Web3 JS Badge](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)](#)  [![Mocha Badge](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white)](#) [![Chai Badge](https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white)](#)
@@ -41,7 +40,7 @@ const me = {
 
 <br>
 
-[![Top Languages](https://readme-stats-envoy-vc.vercel.app/api/top-langs/?username=thanasornsawan&layout=compact)](https://github.com/thanasornsawan/thanasornsawan)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thanasornsawan&layout=compact)
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
